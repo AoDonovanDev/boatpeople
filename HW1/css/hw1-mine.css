@@ -1,0 +1,23 @@
+/* css homework */
+header{
+    background-color: #637cb9;
+}
+h1{
+    text-align:center;
+    color:#FFFFFF;
+    text-transform:uppercase;
+}
+img{
+    display:none;
+}
+h2{
+    text-transform:uppercase;
+    color: #b12727;
+}
+section{
+    background-color: #5f84eb;
+}
+a{
+    color: #000000;
+    background-color: #ffffff;
+}
